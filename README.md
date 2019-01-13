@@ -12,7 +12,7 @@ How to Use
 A game to shoot down enemy planes with a space ba
 
 
-# 
+# 슈팅게임
 설명
 ---
 갤러그같은 게임
